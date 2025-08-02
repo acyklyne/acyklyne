@@ -40,7 +40,7 @@
 
 ###
 
-Hi there, I’m **Acy Klyne Aguilar**, I trained Computer Science from the University of Cabuyao with a passion for building things that solve real-world problems.
+Hi there, I’m **Acy Klyne Aguilar**, I trained as Computer Science from the University of Cabuyao with a passion for building things that solve real-world problems.
 
 From dissecting data pipelines in logistics tech to launching web apps that empower small businesses, I thrive at the intersection of **data**, **design**, and **development**.
 
