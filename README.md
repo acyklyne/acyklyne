@@ -32,7 +32,7 @@
 
 ###
 
-<h1 align="center"> 👋Greetings! I am Acy Klyne Aguilar </h1>
+<h1 align="center"> 👋 Greetings! I am Acy Klyne Aguilar </h1>
 
 ###
 
