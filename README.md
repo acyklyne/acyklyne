@@ -2,10 +2,6 @@
 
 ###
 
-<img align="left" height="160" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"  />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=acyklyne.acyklyne&"  />
 </div>
@@ -101,14 +97,14 @@ I see tech as a playground for innovation — and I love bringing ideas to life 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acyklyne&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" width="350" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acyklyne&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=acyklyne&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" width="380" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acyklyne&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" width="380" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=acyklyne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" width="700" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=acyklyne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" width="760" alt="GitHub Streak" />
 </div>
 
 ###
