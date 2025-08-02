@@ -30,7 +30,21 @@
 
 ###
 
-<p align="left">Hi there, I’m **Acy Klyne Aguilar** I trained Computer Science  from the University of Cabuyao with a passion for building things that solve real-world problems. <br><br>From dissecting data pipelines in logistics tech to launching web apps that empower small businesses, I thrive at the intersection of **data, design, and development**.<br><br>I’ve worked with companies like **Lazada** and **Ninja Van**, handling high-stakes data validation, billing workflows, and recovery operations. I’ve also built projects powered by **AI**, **machine learning**, and **interactive applications**, mixing code with creativity.<br><br>Right now, I’m diving deeper into:<br>- 🔍 Data Engineering & Predictive Analytics  <br>- 🌐 Full-stack Development (React, Laravel, Tailwind, MySQL)  <br>- ☁️ Data Science and Cloud Workflows (AWS Trained)  <br>- 🤖 AI Tools, APIs, and Real-Time Systems  <br><br>I see tech as a playground for innovation — and I love bringing ideas to life through code, whether it’s for business, learning, or just having fun.<br><br>Let’s build something awesome together.<br><br>> 🧠 *“Innovation starts where curiosity meets execution.”*</p>
+Hi there, I’m **Acy Klyne Aguilar**, a Computer Science student from the University of Cabuyao with a passion for building things that solve real-world problems.
+
+From dissecting data pipelines in logistics tech to launching web apps that empower small businesses, I thrive at the intersection of **data**, **design**, and **development**.
+
+I’ve worked with companies like **Lazada** and **Ninja Van**, handling high-stakes data validation, billing workflows, and recovery operations. I’ve also built projects powered by **AI**, **machine learning**, and **interactive applications**, mixing code with creativity.
+
+Right now, I’m diving deeper into:
+- 🔍 Data Engineering & Predictive Analytics  
+- 🌐 Full-stack Development (React, Laravel, Tailwind, MySQL)  
+- ☁️ Data Science and Cloud Workflows (AWS Trained)  
+- 🤖 AI Tools, APIs, and Real-Time Systems  
+
+I see tech as a playground for innovation — and I love bringing ideas to life through code, whether it’s for business, learning, or just having fun.
+
+> 🧠 *“Innovation starts where curiosity meets execution.”*
 
 ###
 
@@ -87,14 +101,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acyklyne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=acyklyne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=acyklyne&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" width="420" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acyklyne&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" width="420" alt="Top Languages" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=acyklyne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=acyklyne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" width="840" alt="GitHub Streak" />
 </div>
 
 ###
