@@ -40,7 +40,7 @@
 
 ###
 
-I'm a **Data Analyst**, **Founder** of **The Techsmith**, and **Developer** with a Computer Science background from the University of Cabuyao. I wear multiple hats — from building full-stack web applications and automation pipelines to troubleshooting hardware and managing IT infrastructure.
+I'm a **Data Analyst**, **Founder** of **The Techsmith**, and **Developer** with a Computer Science background from the University of Cabuyao. I wear multiple hats from building full-stack web applications and automation pipelines to troubleshooting hardware and managing IT infrastructure.
 
 As a **Founder**, I lead The Techsmith — a tech solutions venture focused on web development, IT services, and small business empowerment. This role sharpened my ability to manage projects, communicate with clients, and deliver end-to-end solutions from concept to deployment.
 
