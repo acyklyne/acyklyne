@@ -47,7 +47,7 @@ From dissecting data pipelines in logistics tech to launching web apps that empo
 I’ve worked with companies like **Lazada** and **Ninja Van**, handling high-stakes data validation, billing workflows, and recovery operations. I’ve also built projects powered by **AI**, **machine learning**, and **interactive applications**, mixing code with creativity.
 
 Right now, I’m diving deeper into:
-- 🔍 Data Engineering & Predictive Analytics  
+- 🔍 Data Analysis/Engineering & Predictive Analytics  
 - 🌐 Full-stack Development (React, Laravel, Tailwind, MySQL)  
 - ☁️ Data Science and Cloud Workflows (AWS Trained)  
 - 🤖 AI Tools, APIs, and Real-Time Systems  
