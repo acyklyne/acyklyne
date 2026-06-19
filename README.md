@@ -40,13 +40,21 @@
 
 ###
 
-I'm a **Data Analyst, Developer, Founder of The Techsmith** with a Computer Science background from the University of Cabuyao. I work at the intersection of **data**, **automation**, and **software development** building systems that process millions of logistics records, ensuring billing accuracy, and automating exception handling for 3PL partners like Ninja Van and Flash Express.
+I'm a **Data Analyst**, **Founder** of **The Techsmith**, and **Developer** with a Computer Science background from the University of Cabuyao. I wear multiple hats — from building full-stack web applications and automation pipelines to troubleshooting hardware and managing IT infrastructure.
+
+As a **Founder**, I lead The Techsmith — a tech solutions venture focused on web development, IT services, and small business empowerment. This role sharpened my ability to manage projects, communicate with clients, and deliver end-to-end solutions from concept to deployment.
+
+As a **Technician**, I bring a practical, hardware-level understanding of technology — from PC assembly and network setup to system diagnostics and repair. This grounded perspective informs how I build software: reliable, maintainable, and built to work in the real world.
+
+At **Lazada**, I process and validate millions of logistics records using **SQL** and **Python**, build automation scripts for finance-ready reporting, and ensure billing accuracy across 3PL partners like Ninja Van and Flash Express.
 
 **What I do:**
-- 📊 Process and validate high-volume logistics data using **SQL** and **Python**
-- 🤖 Build automation scripts and ETL pipelines for finance-ready reporting
-- 🧠 Develop predictive models using **TensorFlow** and machine learning
-- 🌐 Build web applications with **React**, **Laravel**, and **Tailwind**
+- 📊 Process high-volume logistics data using **SQL** and **Python**
+- 🤖 Build ETL pipelines and automation scripts
+- 🧠 Develop predictive models with **TensorFlow** and machine learning
+- 🌐 Build web apps with **React**, **Laravel**, and **Tailwind**
+- 🔧 Manage IT infrastructure, networks, and hardware systems
+- 🚀 Lead projects from concept to deployment as a Founder
 
 **Currently exploring:**
 - 🔍 Data Engineering & Analytics at scale
@@ -54,7 +62,7 @@ I'm a **Data Analyst, Developer, Founder of The Techsmith** with a Computer Scie
 - 🧪 AI/ML model deployment and real-time systems
 - ⚡ Full-stack development for business solutions
 
-I believe technology should be built with purpose — solving real problems, delivering value, and making systems work smarter.
+I believe technology should be built with purpose — solving real problems, delivering value, and making systems work smarter. Whether it's code, circuits, or client conversations, I bring the same mindset: **build it right, make it work.**
 
 > 💡 *"Innovation starts where curiosity meets execution."*
 
