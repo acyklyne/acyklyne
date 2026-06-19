@@ -32,7 +32,7 @@
 
 ###
 
-<h1 align="center"> 👋 Greetings! I am Acy Klyne Aguilar </h1>
+<h1 align="center">👋 Hello! I'm Acy Klyne Aguilar</h1>
 
 ###
 
@@ -40,25 +40,27 @@
 
 ###
 
-Hi there, I’m **Acy Klyne Aguilar**, I trained as Computer Science from the University of Cabuyao with a passion for building things that solve real-world problems.
+I'm a **Data Analyst** at **Lazada** with a Computer Science background from the University of Cabuyao. I work at the intersection of **data**, **automation**, and **software development** — building systems that process millions of logistics records, ensuring billing accuracy, and automating exception handling for 3PL partners like Ninja Van and Flash Express.
 
-From dissecting data pipelines in logistics tech to launching web apps that empower small businesses, I thrive at the intersection of **data**, **design**, and **development**.
+**What I do:**
+- 📊 Process and validate high-volume logistics data using **SQL** and **Python**
+- 🤖 Build automation scripts and ETL pipelines for finance-ready reporting
+- 🧠 Develop predictive models using **TensorFlow** and machine learning
+- 🌐 Build web applications with **React**, **Laravel**, and **Tailwind**
 
-I’ve worked with companies like **Lazada** and **Ninja Van**, handling high-stakes data validation, billing workflows, and recovery operations. I’ve also built projects powered by **AI**, **machine learning**, and **interactive applications**, mixing code with creativity.
+**Currently exploring:**
+- 🔍 Data Engineering & Analytics at scale
+- ☁️ Cloud workflows (AWS Certified – Trained)
+- 🧪 AI/ML model deployment and real-time systems
+- ⚡ Full-stack development for business solutions
 
-Right now, I’m diving deeper into:
-- 🔍 Data Analysis/Engineering & Predictive Analytics  
-- 🌐 Full-stack Development (React, Laravel, Tailwind, MySQL)  
-- ☁️ Data Science and Cloud Workflows (AWS Trained)  
-- 🤖 AI Tools, APIs, and Real-Time Systems  
+I believe technology should be built with purpose — solving real problems, delivering value, and making systems work smarter.
 
-I see tech as a playground for innovation — and I love bringing ideas to life through code, whether it’s for business, learning, or just having fun.
-
-> 🧠 *“Innovation starts where curiosity meets execution.”*
+> 💡 *"Innovation starts where curiosity meets execution."*
 
 ###
 
-<h3 align="left">Language and tools</h3>
+<h3 align="left">Languages & Tools</h3>
 
 ###
 
@@ -106,7 +108,7 @@ I see tech as a playground for innovation — and I love bringing ideas to life 
 
 ###
 
-<h3 align="left">My Stats :</h3>
+<h3 align="left">GitHub Stats</h3>
 
 ###
 
