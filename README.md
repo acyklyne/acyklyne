@@ -40,7 +40,7 @@
 
 ###
 
-I'm a **Data Analyst, Developer, Founder of The Techsmith** with a Computer Science background from the University of Cabuyao. I work at the intersection of **data**, **automation**, and **software development** — building systems that process millions of logistics records, ensuring billing accuracy, and automating exception handling for 3PL partners like Ninja Van and Flash Express.
+I'm a **Data Analyst, Developer, Founder of The Techsmith** with a Computer Science background from the University of Cabuyao. I work at the intersection of **data**, **automation**, and **software development** building systems that process millions of logistics records, ensuring billing accuracy, and automating exception handling for 3PL partners like Ninja Van and Flash Express.
 
 **What I do:**
 - 📊 Process and validate high-volume logistics data using **SQL** and **Python**
