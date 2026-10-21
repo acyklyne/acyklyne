@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" fill="none">
+  <title>Acy Klyne Aguilar — AI Engineer</title>
+  <desc>Matte charcoal profile banner with warm ivory typography and muted brass accents. Practical software, automation, and reliable systems.</desc>
+  <rect x="1" y="1" width="1198" height="418" rx="20" fill="#171916" stroke="#34382F" stroke-width="2"/>
+  <path d="M870 1V419M950 1V419M1030 1V419M1110 1V419M870 100H1199M870 180H1199M870 260H1199M870 340H1199" stroke="#252923"/>
+  <rect x="54" y="48" width="42" height="42" rx="11" fill="#252923" stroke="#454A3D"/>
+  <text x="75" y="75" text-anchor="middle" fill="#C5B88D" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700">AC</text>
+  <text x="112" y="74" fill="#BBBCAF" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" letter-spacing="2.5">ENGINEER / BUILDER</text>
+  <circle cx="1035" cy="69" r="4" fill="#C5B88D"/>
+  <text x="1050" y="74" fill="#BBBCAF" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" letter-spacing="1.4">PHILIPPINES</text>
+  <text x="54" y="161" fill="#F0EDE3" font-family="DejaVu Sans, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">Acy Klyne Aguilar</text>
+  <text x="57" y="202" fill="#C5B88D" font-family="DejaVu Sans, Arial, sans-serif" font-size="22">AI Engineer · Product Engineering</text>
+  <text x="57" y="250" fill="#B7BAAF" font-family="DejaVu Sans, Arial, sans-serif" font-size="18">Practical software. Thoughtful automation. Reliable systems.</text>
+  <path d="M57 292H1143" stroke="#34382F"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="57" y="329" fill="#C5B88D" font-size="12" letter-spacing="2">01 / BUILD</text>
+    <text x="57" y="359" fill="#E8E5DB" font-size="18">Business applications</text>
+    <path d="M406 320V366" stroke="#34382F"/>
+    <text x="440" y="329" fill="#C5B88D" font-size="12" letter-spacing="2">02 / CONNECT</text>
+    <text x="440" y="359" fill="#E8E5DB" font-size="18">Automation &amp; integrations</text>
+    <path d="M804 320V366" stroke="#34382F"/>
+    <text x="838" y="329" fill="#C5B88D" font-size="12" letter-spacing="2">03 / DELIVER</text>
+    <text x="838" y="359" fill="#E8E5DB" font-size="18">Validated releases</text>
+  </g>
+  <g stroke="#60664F" stroke-width="1.5">
+    <rect x="950" y="133" width="80" height="80" rx="14" fill="#1E211B"/>
+    <rect x="1056" y="181" width="54" height="54" rx="11" fill="#252923"/>
+    <path d="M1030 173H1083V181M990 213V243H1056"/>
+  </g>
+  <path d="m981 160-12 13 12 13m18-26 12 13-12 13" stroke="#C5B88D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m1072 208 7 7 15-16" stroke="#C5B88D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
