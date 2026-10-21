@@ -2,15 +2,6 @@
   <img src="./assets/profile-header.svg" width="100%" alt="Acy Klyne Aguilar — AI Engineer" />
 </p>
 
-<h1 align="center">Hello, I'm Acy Klyne Aguilar</h1>
-
-<p align="center">
-  <b>AI Engineer · Founder · Data Analyst · Developer</b>
-</p>
-
-<p align="center">
-  Practical software. Thoughtful automation. Reliable systems.
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/acy-klyne-aguilar-4764a5319">
