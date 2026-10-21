@@ -29,7 +29,7 @@
 
 ## About Me
 
-I'm ***AC — Acy Klyne Aguilar***, an ***AI Engineer***, **Founder**, **Data Analyst**, and **Developer** with a Computer Science background from the **University of Cabuyao**.
+I'm **AC — Acy Klyne Aguilar**, an ***AI Engineer***, **Founder**, **Data Analyst**, and **Developer** with a Computer Science background from the **University of Cabuyao**.
 
 Based in the Philippines, I currently work as an **AI Engineer at Gur Lavi Corp / Telavi**, contributing across software development, automation, systems integration, and reliable delivery.
 
