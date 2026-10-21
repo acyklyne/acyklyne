@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Acy Klyne Aguilar — AI Engineer" />
+  <img src="./assets/profile-header.svg" width="120%" alt="Acy Klyne Aguilar — AI Engineer" />
 </p>
 
 
